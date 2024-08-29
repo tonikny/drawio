@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7">
   <diagram name="Pàgina-1" id="FQhIHKyydwHqLgrKrVZE">
-    <mxGraphModel dx="1169" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="800" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
             <mxPoint x="739" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0WtTFYDZuwJzZL72vCQi-22" value="" style="swimlane;startSize=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="0WtTFYDZuwJzZL72vCQi-22" value="" style="swimlane;startSize=0;labelBackgroundColor=none;fillColor=#97D077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="265" y="60" width="330" height="850" as="geometry" />
         </mxCell>
         <mxCell id="0WtTFYDZuwJzZL72vCQi-20" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;STRIPE EVENTS&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="0WtTFYDZuwJzZL72vCQi-22">
