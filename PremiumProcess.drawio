@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.12" pages="2">
   <diagram name="Pàgina-1" id="FQhIHKyydwHqLgrKrVZE">
-    <mxGraphModel dx="894" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="894" dy="1318" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,9 +87,6 @@
         </mxCell>
         <mxCell id="-Z_y5oZITX61dmF_txDQ-4" value="Canceled and End of Paid Period" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="920" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-Z_y5oZITX61dmF_txDQ-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Z_y5oZITX61dmF_txDQ-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="920" width="40" height="40" as="geometry" />
